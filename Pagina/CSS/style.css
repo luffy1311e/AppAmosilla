@@ -1,0 +1,85 @@
+body {
+	height: auto;
+	width: auto;
+	background-image: url("../images/prueba.png");
+}
+
+br {
+	clear: both;
+}
+
+p {
+	color: white;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+}
+
+footer {
+	background-color: #008080;
+	color: white;
+	clear: both;
+	margin-left: 20px;
+	margin-right: 57px;
+	border-radius: 4px;
+	padding: 5px;
+	text-align:center;
+}
+
+header {
+	background-color: #008080;
+	color: white;
+	text-align:center;
+	border-radius: 4px;
+	margin-left: 20px;
+	margin-right: 57px;
+    padding:5px;
+}
+
+section {
+	position: relative;
+	height: auto;
+	width: 400px;
+	padding: 10px;
+	background: #008080;
+	left: 500px;
+	line-height:25px;
+	float: left;
+	border-radius: 5px;
+	box-shadow: 7px 7px 7px #888888;
+}
+
+aside {
+	position: relative;
+	background-color: #008080;
+	height: auto;
+	width: 250px;
+	left: 600px;
+	float:left;
+	padding:5px;
+	border-radius: 5px;
+	box-shadow: 7px 7px 10px #888888;
+	line-height:25px;
+    /*height:300px;
+    width:100px;*/
+}
+
+#container	{
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.title {
+	position: relative;
+	top: 20px;
+	color: white;
+	text-align: center;
+}
+
+.imagenPrueba {
+	left: 200px;
+	position: relative;
+}
