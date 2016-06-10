@@ -1,0 +1,27 @@
+{
+  "name": "appamosilla",
+  "version": "1.0.0",
+  "description": "Prueba para mejorar en Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luffy1311e/AppAmosilla.git"
+  },
+  "author": "Edgar Romero C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luffy1311e/AppAmosilla/issues"
+  },
+  "homepage": "https://github.com/luffy1311e/AppAmosilla#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.1.0"
+  }
+}
